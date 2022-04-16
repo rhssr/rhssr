@@ -3,7 +3,7 @@
 - 👀 I’m interested in designing webs. That’s what I keep doing.
 - 🌐 I’m daily learning something new about every language I use.
 - 💞️ I’m obviously open to collaborations of all kind. (but kindly)
-- 📫 How to reach me? ✉️ - 📧
+- 📫 How to reach me? ✉️
 
 <!---
 rhssr/rhssr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
